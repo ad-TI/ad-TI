@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am Aditi Bhardwaj
 An Undergraduate student at Wright State University
 Majoring in Computer Science
 ### Skills
