@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+An Undergraduate student at Wright State University
+Majoring in Computer Science
 <!--
 **ad-TI/ad-TI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
