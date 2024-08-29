@@ -1,6 +1,5 @@
 ## Hi there 👋
-I am Aditi Bhardwaj
-An Undergraduate student at Wright State University
+I am Aditi Bhardwaj, an Undergraduate student at Wright State University
 Majoring in Computer Science
 ### Skills
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
