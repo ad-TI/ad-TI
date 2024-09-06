@@ -1,8 +1,8 @@
 ## Hi there 👋
-# I am Aditi Bhardwaj, an Undergraduate student at Wright State University
-# Majoring in Computer Science
+### I am Aditi Bhardwaj, an Undergraduate student at Wright State University
+### Majoring in Computer Science
 
-# Projects I will be working on:
+### Projects I will be working on:
 1. "Cross-Platform Automated Deployment System"
 Description: an automated deployment system that uses Python for scripting and orchestration, Java for backend services, and Linux for the server environment. 
 2. "Distributed Data Processing Pipeline"
